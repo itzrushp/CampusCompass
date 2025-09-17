@@ -38,8 +38,7 @@ It reduces the burden on administrative staff by providing **24/7 automated supp
 
 ```bash
 # Clone the repo
-git clone [https://github.com/your-username/campus-compass.git
-](https://github.com/itzrushp/CampusCompass.git)
+git clone https://github.com/your-username/campus-compass.git
 # Go into the project
 cd campus-compass
 
